@@ -1,2 +1,4 @@
 # FreeConfig
 در این پروژه میتوانید به تعداد بالایی کانفیگ پیدا کنید | You can find free configs on this github☺
+برای حمایت از ما استار بدید!
+برای حمایت ریالی هم به این لینک مراجعه کنید "   https://reymit.ir/FreeCONFIG    "
